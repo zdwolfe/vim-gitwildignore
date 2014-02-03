@@ -1,13 +1,10 @@
 vim-gitwildignore
 =================
 
-Append files listed in .gitignore into wildignore. 
-
-## Usage
-Simply install, and every file/directory in your projects ``.gitignore`` files will be appended to your wildignore.
+Install and every file/directory in your projects ``.gitignore`` files will be appended to your wildignore. Useful when accompanied with the [ctrlp.vim](https://github.com/kien/ctrlp.vim) plugin.
 
 ## Installation
-Use vundle, or install manually by placing ``gitwildignore.vim`` in your ``plugin`` directory.
+Use [vundle](https://github.com/gmarik/vundle), and add the following your ``vimrc`` file:
 ```vim
 Bundle 'zdwolfe/vim-gitwildignore'
 ```
