@@ -8,3 +8,7 @@ Use [vundle](https://github.com/gmarik/vundle), and add the following your ``vim
 ```vim
 Bundle 'zdwolfe/vim-gitwildignore'
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/zdwolfe/vim-gitwildignore/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
